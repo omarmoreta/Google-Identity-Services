@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Google Identity Services Login and Logout Create React App
+
+Simple React app where you can login as a Google user, decode the JWT, and login/log out.
+
+Need to create a project with Google Identity Services: https://console.cloud.google.com/
+Add google email(s)(username@gmail.com), localhost (http://localhost), and port(s) (http://localhost:3000 is the default for react).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
