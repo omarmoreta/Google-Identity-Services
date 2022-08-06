@@ -6,6 +6,8 @@ Need to create a project with Google Identity Services: https://console.cloud.go
 
 Add google email(s)(username@gmail.com), localhost (http://localhost), and port(s) (http://localhost:3000 is the default for react).
 
+Add Google client_ID provided at the end of Google Identity Services set-up in a environment variable (REACT_APP_CLIENT_ID) in a .env file at the root of the project.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
